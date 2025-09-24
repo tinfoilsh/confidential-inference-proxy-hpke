@@ -1,0 +1,6 @@
+.idea/
+confidential-inference-proxy
+proxy
+proxyctl
+ext.yml
+tuf-repo-cdn.sigstore.dev.json
